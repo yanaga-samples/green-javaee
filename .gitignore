@@ -1,0 +1,14 @@
+/.apt_generated
+/.classpath
+/.clover
+/.factorypath
+/.idea
+/.project
+/.settings
+/.springBeans
+/.metadata
+/target
+/bin
+/*.iml
+/*.tmp
+/*.log
