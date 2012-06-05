@@ -6,7 +6,7 @@
 	<artifactId>green-javaee</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>jsf-jboss-pom</name>
+	<name>green-javaee</name>
 	<description>Sample JavaEE project</description>
 	<properties>
 		<java.version>1.6</java.version>
